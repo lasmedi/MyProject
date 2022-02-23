@@ -1,3 +1,4 @@
 Halo
 ini ujicoba menggunakan github ya
-saya sedang belajar
+Ini baru selesai
+dan ini ditambhakan pada baris ke empatnya
